@@ -1,4 +1,4 @@
-<h3 align="center">Olá, seja Bem-Vindo</h3>
+<h3 align="center"> Hello, welcome! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogranny" alt="ogranny" /> </p>
 
